@@ -1,0 +1,46 @@
+[22:28:59.568536] (system)	Session started.
+[22:28:59.568536] (debug)	Module handle: 78B30000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[22:28:59.568536] (info)	Working directory: C:\Program Files (x86)\Purple GTA by Sensu\moonloader
+[22:28:59.568536] (debug)	FP Control: 0009001F
+[22:28:59.568536] (debug)	Game: GTA SA 1.0.0.0 US
+[22:28:59.568536] (system)	Installing pre-game hooks...
+[22:28:59.571044] (system)	Hooks installed.
+[22:29:02.010990] (debug)	Initializing opcode handler table
+[22:29:02.011997] (debug)	package.path = C:\Program Files (x86)\Purple GTA by Sensu\moonloader\lib\?.lua;C:\Program Files (x86)\Purple GTA by Sensu\moonloader\lib\?\init.lua;C:\Program Files (x86)\Purple GTA by Sensu\moonloader\?.lua;C:\Program Files (x86)\Purple GTA by Sensu\moonloader\?\init.lua;.\?.lua;C:\Program Files (x86)\Purple GTA by Sensu\moonloader\lib\?.luac;C:\Program Files (x86)\Purple GTA by Sensu\moonloader\lib\?\init.luac;C:\Program Files (x86)\Purple GTA by Sensu\moonloader\?.luac;C:\Program Files (x86)\Purple GTA by Sensu\moonloader\?\init.luac;.\?.luac
+[22:29:02.011997] (debug)	package.cpath = C:\Program Files (x86)\Purple GTA by Sensu\moonloader\lib\?.dll;
+[22:29:02.022523] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\AcsRemover.lua'...
+[22:29:02.022523] (debug)	New script: 0F264904
+[22:29:02.028522] (system)	AcsRemover.lua: Loaded successfully.
+[22:29:02.029521] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\AH_Bred.lua'...
+[22:29:02.029521] (debug)	New script: 0F265E74
+[22:29:02.051077] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\lib\lib_imgui_notf.lua'...
+[22:29:02.051077] (debug)	New script: 0F265234
+[22:29:02.059605] (system)	lib_imgui_notf.lua: Loaded successfully.
+[22:29:02.060611] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\lib\scoreboard.lua'...
+[22:29:02.060611] (debug)	New script: 0F265CEC
+[22:29:02.076673] (system)	ImGui Scoreboard: Loaded successfully.
+[22:29:02.083216] (system)	Admin Helper: Loaded successfully.
+[22:29:02.083216] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\AutoReboot.lua'...
+[22:29:02.083216] (debug)	New script: 0F26477C
+[22:29:02.085215] (system)	ML-AutoReboot: Loaded successfully.
+[22:29:02.085215] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\check-moonloader-updates.lua'...
+[22:29:02.085215] (debug)	New script: 0F2653BC
+[22:29:02.087214] (system)	Check MoonLoader Updates: Loaded successfully.
+[22:29:02.088216] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\reload_all.lua'...
+[22:29:02.088216] (debug)	New script: 0F264D9C
+[22:29:02.089215] (system)	ML-ReloadAll: Loaded successfully.
+[22:29:02.089215] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\SF Integration.lua'...
+[22:29:02.089215] (debug)	New script: 0F2656CC
+[22:29:02.092314] (system)	SF Integration: Loaded successfully.
+[22:29:02.092314] (system)	Loading script 'C:\Program Files (x86)\Purple GTA by Sensu\moonloader\streamup.luac'...
+[22:29:02.092314] (debug)	New script: 0F2659DC
+[22:29:02.105862] (system)	streamup.luac: Loaded successfully.
+[22:29:12.444108] (system)	Installing post-load hooks...
+[22:29:12.444108] (system)	Hooks installed.
