@@ -1,10 +1,11 @@
 -- [x] -- Название скрипта. -- [x] --
-script_name("Admin Helper")
-script_author("Yamada.")
-script_version('8.1')
-local script_version_text = "8.10"
+script_name("SY:NC Development | Admin Helper")
+script_author("SY:NC Locale.")
+script_version('0.1 Reborn')
+local script_version_text = "0.1 Reborn"
 
 -- [x] -- Библиотеки. -- [x] --
+										require "moonloader" -- только что прописал.
 local sampev							= require "lib.samp.events"
 local font_admin_chat					= require ("moonloader").font_flag
 local ev								= require ("moonloader").audiostream_state
