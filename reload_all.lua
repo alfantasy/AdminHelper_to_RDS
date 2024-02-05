@@ -16,3 +16,5 @@ function main()
 	end
   end
 end
+
+-- хуй пизда скороворода
